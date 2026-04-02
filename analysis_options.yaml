@@ -1,0 +1,28 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # Performance & size
+    avoid_unnecessary_containers: true
+    sized_box_for_whitespace: true
+    use_const_constructors: true
+    use_const_constructors_in_immutables: true
+    use_const_declarations: true
+    prefer_const_constructors: true
+    prefer_const_literals_to_create_immutables: true
+
+    # Code quality
+    avoid_print: true
+    prefer_single_quotes: true
+    sort_child_properties_last: true
+    use_build_context_synchronously: true
+    unnecessary_this: true
+    prefer_final_locals: true
+    avoid_redundant_argument_values: true
+
+analyzer:
+  errors:
+    # Treat dead code as a warning so it gets cleaned up
+    dead_code: warning
+    unused_import: warning
+    unused_local_variable: warning

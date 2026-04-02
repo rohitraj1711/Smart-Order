@@ -1,0 +1,122 @@
+[
+  {
+    "id": "P001",
+    "name": "Premium Basmati Rice",
+    "description": "Aged long-grain basmati rice, premium quality",
+    "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=400",
+    "dealerPrice": 850.0,
+    "retailerPrice": 1050.0,
+    "moq": 5,
+    "unit": "kg",
+    "category": "Grains",
+    "barcode": "8901234567890"
+  },
+  {
+    "id": "P002",
+    "name": "Extra Virgin Olive Oil",
+    "description": "Cold-pressed extra virgin olive oil, 1L bottle",
+    "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaabdf50494?w=400",
+    "dealerPrice": 420.0,
+    "retailerPrice": 550.0,
+    "moq": 10,
+    "unit": "bottles",
+    "category": "Oils",
+    "barcode": "8901234567892"
+  },
+  {
+    "id": "P003",
+    "name": "Organic Honey",
+    "description": "Pure organic honey from Himalayan farms, 500g",
+    "imageUrl": "https://images.unsplash.com/photo-1587049352846-4a222e784d38?w=400",
+    "dealerPrice": 280.0,
+    "retailerPrice": 380.0,
+    "moq": 12,
+    "unit": "jars",
+    "category": "Natural Foods",
+    "barcode": "8901234567894"
+  },
+  {
+    "id": "P004",
+    "name": "Green Tea Leaves",
+    "description": "Premium Darjeeling green tea leaves, loose 250g",
+    "imageUrl": "https://images.unsplash.com/photo-1556881286-fc6915169721?w=400",
+    "dealerPrice": 190.0,
+    "retailerPrice": 260.0,
+    "moq": 20,
+    "unit": "packs",
+    "category": "Beverages",
+    "barcode": "8901234567896"
+  },
+  {
+    "id": "P005",
+    "name": "Roasted Almonds",
+    "description": "California roasted almonds, salted, 500g",
+    "imageUrl": "https://images.unsplash.com/photo-1508061253366-f7da158b6d46?w=400",
+    "dealerPrice": 520.0,
+    "retailerPrice": 680.0,
+    "moq": 8,
+    "unit": "packs",
+    "category": "Dry Fruits",
+    "barcode": "8901234567898"
+  },
+  {
+    "id": "P006",
+    "name": "Turmeric Powder",
+    "description": "Pure turmeric powder, organic certified, 200g",
+    "imageUrl": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=400",
+    "dealerPrice": 65.0,
+    "retailerPrice": 95.0,
+    "moq": 25,
+    "unit": "packs",
+    "category": "Spices",
+    "barcode": "8901234567800"
+  },
+  {
+    "id": "P007",
+    "name": "Coconut Water",
+    "description": "Natural tender coconut water, 200ml tetra pack",
+    "imageUrl": "https://images.unsplash.com/photo-1536657464919-892534f60d6e?w=400",
+    "dealerPrice": 22.0,
+    "retailerPrice": 35.0,
+    "moq": 48,
+    "unit": "packs",
+    "category": "Beverages",
+    "barcode": "8901234567812"
+  },
+  {
+    "id": "P008",
+    "name": "Dark Chocolate Bar",
+    "description": "70% cocoa dark chocolate, premium Belgian, 100g",
+    "imageUrl": "https://images.unsplash.com/photo-1549007994-cb92caebd54b?w=400",
+    "dealerPrice": 110.0,
+    "retailerPrice": 160.0,
+    "moq": 15,
+    "unit": "bars",
+    "category": "Confectionery",
+    "barcode": "8901234567824"
+  },
+  {
+    "id": "P009",
+    "name": "Quinoa Seeds",
+    "description": "Certified organic white quinoa seeds, 500g",
+    "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=400",
+    "dealerPrice": 340.0,
+    "retailerPrice": 450.0,
+    "moq": 10,
+    "unit": "packs",
+    "category": "Superfoods",
+    "barcode": "8901234567836"
+  },
+  {
+    "id": "P010",
+    "name": "Cold Pressed Mustard Oil",
+    "description": "Traditional cold pressed mustard oil, 1L",
+    "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaabdf50494?w=400",
+    "dealerPrice": 180.0,
+    "retailerPrice": 240.0,
+    "moq": 12,
+    "unit": "bottles",
+    "category": "Oils",
+    "barcode": "8901234567848"
+  }
+]
